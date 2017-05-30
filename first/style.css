@@ -1,0 +1,30 @@
+body{
+  background:#CCC;
+}
+
+
+.top_section{
+  height:13vh;
+  width:100%;
+  background:#555;
+}
+
+.centered_margin_box{
+  width:75%;
+  height:75vh;
+  margin-left:12%;
+}
+
+.main_block{
+  width:75%;
+  height:75vh;
+  margin-left:12%;
+  background:#FFF;
+}
+
+.footer{
+  width:75%;
+  height:11vh;
+  margin-left:12%;
+  background:#000;
+}
