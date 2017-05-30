@@ -1,0 +1,53 @@
+.full-width{
+  width:100%;
+}
+
+.common-height{
+  height:20vh;
+}
+
+.gray-header{
+  background:#d8d8d8;
+}
+
+.blue-square{
+  background:#4a90e2;
+  height:14vh;
+  width:120px;
+  position:absolute;
+  margin-top:20px;
+  margin-left:20px;
+
+}
+
+.white-box{
+  background:#ffffff;
+  height: 40vh;
+}
+
+.text-style{
+  font-size:27px;
+  color:gray;
+  position:absolute;
+  margin-top:65px;
+  margin-left:65px;
+  margin-right:65px;
+
+}
+
+.blue-box{
+  background:#4a90e2;
+}
+
+.aqua-box {
+  background:#50e3c2;
+}
+
+.green-box{
+  background:#b8e986;
+}
+
+.yellow-box{
+  background:#f8e71c;
+  height:30vh;
+}
