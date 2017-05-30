@@ -1,0 +1,36 @@
+.body-content{
+  position: static;
+  display: flex;
+}
+
+.base-pane{
+  height:100vh;
+  display:inline-block;
+  width:33.3%;
+}
+
+.left-pane{
+  background:#4a90e2;
+}
+
+.middle-pane{
+  background:#50e3c2;
+}
+
+.right-pane{
+  background:#b8e986;
+}
+
+.image-placeholder{
+  background:#d0021b;
+  height:20vh;
+  margin-top:80vh;
+}
+
+.image-placeholder-text{
+  color: white;
+  font-size: 28px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 20vh;
+}
